@@ -20,4 +20,7 @@ DOMAIN-SUFFIX,000wz.com
 # 冒泡网赚
 DOMAIN-SUFFIX,maomp.com
 # deepseek
-DOMAIN-SUFFIX,deepseek.com
+DOMAIN-KEYWORD,deepseek
+# doubao
+PROCESS-NAME,Doubao.exe
+DOMAIN-KEYWORD,doubao
