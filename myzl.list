@@ -28,5 +28,5 @@ DOMAIN-KEYWORD,doubao
 PROCESS-NAME,Doubao.exe
 # 必应get笔记
 DOMAIN-SUFFIX,biji.com
-DOMAIN-KEYWORD,biji
+# DOMAIN-KEYWORD,biji
 # PROCESS-NAME,biji.exe
