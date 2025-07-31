@@ -32,3 +32,6 @@ DOMAIN-SUFFIX,biji.com
 # PROCESS-NAME,biji.exe
 # 仰度
 DOMAIN-SUFFIX,dysdy.team
+# 罐头
+DOMAIN-SUFFIX,czgts.cn
+PROCESS-NAME,创作罐头.exe
