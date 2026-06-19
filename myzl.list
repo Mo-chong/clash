@@ -38,3 +38,10 @@ PROCESS-NAME,创作罐头.exe
 # 影刀
 DOMAIN-SUFFIX,yingdao.com
 PROCESS-NAME,ShadowBot.exe
+# 腾讯
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,tencent.com
+PROCESS-NAME,weixin.exe
