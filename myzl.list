@@ -45,3 +45,6 @@ DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tencent.com
 PROCESS-NAME,weixin.exe
+# 火山
+DOMAIN-SUFFIX,volcengine.com
+DOMAIN-SUFFIX,volces.com
