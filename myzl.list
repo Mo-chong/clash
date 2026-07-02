@@ -48,3 +48,5 @@ PROCESS-NAME,weixin.exe
 # 火山
 DOMAIN-SUFFIX,volcengine.com
 DOMAIN-SUFFIX,volces.com
+# 英伟达
+DOMAIN-SUFFIX,nvidia.comm
